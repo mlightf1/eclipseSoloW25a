@@ -9,7 +9,7 @@ System.out.println("A second line statement");
 System.out.println("Programmer 2 did this!");
 System.out.println("PROGRAMMERONEEE did this just after the Programmer2 did this");
 System.out.println("Programmer1 did this just after the Programmer2 did this");
-System.out.println("Programmer1 made a change then Programmer 2 made a change.");
+System.out.println("Programmer1 made a change then Programmer 2 made a change...");
 	}
 
 }
